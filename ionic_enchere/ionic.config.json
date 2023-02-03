@@ -1,0 +1,7 @@
+{
+  "name": "ionic_enchere",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
